@@ -1,0 +1,2 @@
+Chess Game I made a while ago that was made in 12 hours in one night, made it during the making of the other chess game repo but didnt like the logic so decided to do my own thing. This game got mistaken with me actually playing chess in class and subsequently my teachers expression shifting from mad to impressed.
+<img width="1003" height="831" alt="image" src="https://github.com/user-attachments/assets/691da7ea-3102-4793-a2a6-c0ac9a32f22e" />
